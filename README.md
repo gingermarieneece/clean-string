@@ -21,3 +21,5 @@ removes all whitespace, tabs and newline characters from the string
 ## Tests
 
   `npm test`
+  
+  test
