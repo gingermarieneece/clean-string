@@ -1,15 +1,19 @@
 {
-  "name": "ginger.blue",
+  "name": "cleanstring-module",
   "version": "1.0.0",
-  "description": "",
+  "description": "clean-string",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ginger neece",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gingermarieneece/clean-string.git"
+  },
+  "author": "Ginger Neece <ginger.neece@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
-    "chai": "^4.1.2",
-    "mocha": "^5.1.1"
-  }
+  "bugs": {
+    "url": "https://github.com/gingermarieneece/clean-string/issues"
+  },
+  "homepage": "https://github.com/gingermarieneece/clean-string#readme"
 }
