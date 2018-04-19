@@ -1,5 +1,4 @@
 clean-string
-
 =========
 
 removes all whitespace, tabs and newline characters from the string
